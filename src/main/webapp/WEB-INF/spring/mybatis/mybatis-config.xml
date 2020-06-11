@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  
+<configuration>
+	<typeAliases>
+		<typeAlias type="com.biz.pets.domain.community.ReviewDTO" alias="ReviewDTO"/>
+		<typeAlias type="com.biz.pets.domain.community.ServiceDTO" alias="ServiceDTO"/>
+		<typeAlias type="com.biz.pets.domain.community.PageDTO" alias="PageDTO"/>		
+	</typeAliases>
+</configuration>	
